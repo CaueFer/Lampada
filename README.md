@@ -1,3 +1,3 @@
 # Lampada
 
-Para acessar o projeto entro no link: https://cauefer.github.io/Lampada/
+Para acessar o projeto entre no link: https://cauefer.github.io/Lampada/
